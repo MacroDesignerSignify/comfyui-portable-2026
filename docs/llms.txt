@@ -1,0 +1,18 @@
+# comfyui-portable-2026
+
+> v2RayTun — кроссплатформенный клиент для управления профилями подключений на базе Xray Core
+
+Official ComfyUI portable habit — zip, extract, run. comfyui-portable-2026 follows that, with a named Windows pack.
+
+## Pages
+- Site: https://macrodesignersignify.github.io/comfyui-portable-2026/
+- Release: https://github.com/MacroDesignerSignify/comfyui-portable-2026/releases/latest
+- Source repo: https://github.com/MacroDesignerSignify/comfyui-portable-2026
+- Engine: https://github.com/Comfy-Org/ComfyUI
+
+## Queries
+- ComfyUI portable Windows
+- ComfyUI portable Windows
+- local Stable Diffusion download
+
+Windows 10/11, local GPU, no subscription.
